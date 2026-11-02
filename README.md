@@ -25,6 +25,9 @@
 - 英美发音、例句逐词高亮朗读，音形义一起记
 - 全部真题题型：听力 / 完形 / 拼写 / 造句 / 口语三段式 / KET·PET 模考
 
+<img src="https://raw.githubusercontent.com/zhixun1981-oss/word-atlas-store/main/assets/gallery-words.jpg" alt="一词一画 · 词库插画画廊" width="90%">
+
+
 ### 2. AI 陪练，开口就打分
 - **AI 例句与迷你故事**：任意词即时生成 3 条例句 + 一篇迷你故事（本地 Ollama 驱动，免费）
 - **看图描述评分**：60 秒看图开口描述，AI 三维打分
