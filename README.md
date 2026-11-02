@@ -6,7 +6,7 @@
 
 **让孩子真正记住单词的剑桥备考伴侣**
 
-7,000+ 剑桥 KET/PET 词条 · 一词一画 · AI 陪练 · 一次买断 **¥20**
+**macOS / Windows 双平台** · 7,000+ 剑桥 KET/PET 词条 · 一词一画 · AI 陪练 · 一次买断 **¥20**
 
 </div>
 
@@ -56,13 +56,13 @@
 
 - 💰 收款方式：`<!-- 待填：微信/支付宝收款码或面包多链接 -->`
 
-> 收到链接后：下载 zip → 解压 → 双击 `Word Atlas.app` 即用。macOS 首次打开提示"无法验证开发者"时，**右键 → 打开**一次即可。
+> 收到链接后：下载 zip → 解压 → 双击 `Word Atlas.app`（macOS）或 `Word Atlas.exe`（Windows）即用。macOS 首次打开提示"无法验证开发者"时，**右键 → 打开**一次即可；Windows 提示 SmartScreen 时点"更多信息 → 仍要运行"。
 
 ## 常见问题
 
 | 问题 | 回答 |
 | :--- | :--- |
-| 支持哪些电脑？ | 当前 macOS（Apple Silicon M 系列）；Windows 版制作中 |
+| 支持哪些电脑？ | **macOS（Apple Silicon M 系列）与 Windows 均已支持** |
 | AI 功能要联网吗？ | 由本地 Ollama 驱动（免费），首次使用前运行 `OLLAMA_ORIGINS="*" ollama serve` |
 | 需要注册账号吗？ | 不需要。进度保存在本机，可随时导出备份 |
 | 换电脑 / 重装系统？ | 导出进度 JSON，新电脑导入即可 |
